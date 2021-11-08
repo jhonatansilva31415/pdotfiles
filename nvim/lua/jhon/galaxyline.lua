@@ -1,0 +1,1 @@
+/storage/masterfiles/nvim/lua/jhon/galaxyline.lua
